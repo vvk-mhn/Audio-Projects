@@ -1,6 +1,9 @@
 # Audio-Projects
 This repository contains some personal projects of mine related to audio and DSP.
 
+## QVIM Challenge:
+Me and my colleague, Rahul Peter participated in the Query by Vocal Imitation Challenge and our model ranked at third place in the challenge. The abstract of the report was presented in the Late Breaking section during the AES AIMLA Conference, 2025, London. More details about this project can be found in [this](https://github.com/RP335/qvim-challenge-aalto) repository.
+
 ## faust-effects: 
 This folder contains Faust implementations of some gain, modulation and time-based effects; the idea is to try and incorporate some of these effects as unit generators as part of Arco, a signal processing server created by Dr. Roger Dannenberg. You can check out the Arco repository [here](https://github.com/rbdannenberg/arco).
 
